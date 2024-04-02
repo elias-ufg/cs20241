@@ -9,3 +9,4 @@ Lembre-se que o trabalho é uma API-Rest referente a uma tema definido pelo grup
 2. O conteúdo do arquivo deve conter, nesta ordem, **título do trabalho**, **descrição** breve do trabalho e **nome do aluno** que está redigindo este texto e irá enviar o arquivo para o github;
 3. Envie suas alterações para o Github (Neste repositório: https://github.com/elias-ufg/cs20241/);
 4. Em seguida, cada componente deve baixar o projeto (pull), acrescentar o seu nome e enviar a alteração para o Github (push).
+5. 
